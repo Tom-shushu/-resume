@@ -1,12 +1,12 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
+name: 周红
+location: 西安
+company: 
 position: Java开发工程师
-github: https://github.com/
+github: https://github.com/Tom-shushu
 facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+phone: 15249239025
+email: 1462533241@qq.com
 
 baseurl: "/resume.io"
 
